@@ -72,7 +72,7 @@ Joining multiple tables efficiently to gather all required data points.
 
 
 
-**Assessment_Q4.sql — Customer Lifetime Value (CLV) Estimation**
+# Assessment_Q4.sql — Customer Lifetime Value (CLV) Estimation
 Approach:
 
 Calculated tenure in months by subtracting signup date from the current date.
